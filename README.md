@@ -1,0 +1,2 @@
+# tambang
+gas
